@@ -47,6 +47,10 @@ const CONFIG = {
             subs: []
         },
         {
+            text: 'Disable system - nearby sharing',
+            subs: []
+        },
+        {
             text: 'File Explorer Options',
             subs: []
         },
@@ -109,3 +113,4 @@ const CONFIG = {
         },
     ]
 };
+
